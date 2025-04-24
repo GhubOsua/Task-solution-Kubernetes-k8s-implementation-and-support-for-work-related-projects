@@ -72,7 +72,7 @@ spec:
         resources:  # Ограничения ресурсов для контейнера
           requests:
             memory: "128Mi"
-            cpu: "300m"
+            cpu: "100m"
           limits:
             memory: "130Mi"
             cpu: "0.5"
