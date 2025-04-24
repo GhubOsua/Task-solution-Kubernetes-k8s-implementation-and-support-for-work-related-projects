@@ -74,7 +74,7 @@ spec:
             memory: "128Mi"
             cpu: "300m"
           limits:
-            memory: "256Mi"
+            memory: "130Mi"
             cpu: "0.5"
         env:  # Переменные окружения для контейнера
         - name: APP_ENV
